@@ -1,0 +1,16 @@
+USER_INFO = {
+    "order[billing_name]": "FroVolod",
+    "order[email]": "qq@qq.qq",
+    "order[tel]": "555-555-5555",
+    "order[billing_address]": "555 NW 55rd Lane",
+    "order[billing_address_2]": "",
+    "order[billing_address_3]": "",
+    "order[billing_city]": "Five Station",
+    "order[billing_zip]": "55555",
+    "order[billing_country]": "GB",
+    "credit_card[type]": "visa",
+    "credit_card[cnb]": "4147**",
+    "credit_card[month]": "05",
+    "credit_card[year]": "2020",
+    "credit_card[vval]": "555",
+}
